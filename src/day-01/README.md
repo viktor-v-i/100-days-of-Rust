@@ -1,4 +1,4 @@
-What i did /learned today:
+What i did /learned:
 I installed Rust according to the book, that included cargo and rustc,
 i created the "Hello world" main.rs file using the fn function declaration.
 Then i did the daily challange which had me writing five lines of code using "println!" inside the fn main() {}.
