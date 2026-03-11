@@ -1,0 +1,13 @@
+# Rust build artifacts
+target/
+**/*.rs.bk
+
+# Cargo lock for binaries is fine to commit
+# but ignore for libraries
+
+# OS files
+.DS_Store
+
+# PDF book — don't push copyrighted material
+*.pdf
+guessing_game/target/
