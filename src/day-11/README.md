@@ -1,5 +1,5 @@
 
-What stuck / Went through
+What stuck
 - How to create references which functions borrow
 - Functions that borrow don't take ownership
 - Immutable references
