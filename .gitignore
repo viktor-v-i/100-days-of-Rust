@@ -11,3 +11,7 @@ target/
 # PDF book — don't push copyrighted material
 *.pdf
 guessing_game/target/
+
+# Local-only tooling / editor dirs
+.claude/
+.course/
